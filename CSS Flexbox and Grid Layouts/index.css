@@ -1,0 +1,68 @@
+.cars{
+    margin: 100px;
+      background-color: none;
+      display: flex;
+      width: 375px;
+      width: 1440px;
+  }
+  button{
+      padding-right: 25px;
+      padding-left: 25px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      border-style: none;
+      margin-top: 50px;
+      border-radius: 20px;
+      font-size: 15px;
+      font-weight: 700;
+  }
+  button:hover{
+    color: blue;
+    opacity: 70s;
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-style: none;
+    margin-top: 50px;
+    border-radius: 20px;
+    font-size: 15px;
+    font-weight: 900;
+  }
+  .sedans{
+      background-color: hsl(31, 77%, 52%);
+      font-size: 20px;
+      padding-top: 20px;
+      padding-left: 40px;
+      padding-right: 40px;
+      padding-bottom: 50px;
+      height: 400px;
+      width: 300px;
+      border-bottom-left-radius: 20px;
+      border-top-left-radius: 20px;
+  }
+  .suvs{
+      background-color: hsl(184, 100%, 22%);
+      font-size: 20px;
+      padding-top: 20px;
+      padding-left: 40px;
+      padding-right: 40px;
+      padding-bottom: 50px;
+      height: 400px;
+      width: 300px;
+  }
+  .luxury{
+      background-color: hsl(179, 100%, 13%);
+      font-size: 20px;
+      padding-top: 20px;
+      padding-left: 40px;
+      padding-right: 40px;
+      padding-bottom: 50px;
+      height: 400px;
+      width: 300px;
+      border-bottom-right-radius: 20px;
+      border-top-right-radius: 20px;
+  }
+  h1, p{
+      color: white;
+  }
